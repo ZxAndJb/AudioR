@@ -1,0 +1,119 @@
+{
+  "1":[
+    "This is a {0} Hz audio file",
+    "This audio file has a frequency of {0} Hz",
+    "The frequency of this audio file is {0} Hz",
+    "This is an audio file with a {0} Hz frequency",
+    "This sound file operates at {0} Hz",
+    "The sound in this file is at {0} Hz"
+  ],
+  "2":
+  {
+    "u":[
+      "The audio starts at {0} Hz and then increases to {1} Hz",
+      "This audio track initiates at {0} Hz and then escalates to {1} Hz",
+      "The audio begins at {0} Hz and then ramps up to {1} Hz",
+      "The sound starts at {0} Hz and gradually rises to {1} Hz",
+      "This recording starts at {0} Hz and then increases to {1} Hz",
+      "The frequency of this audio starts at {0} Hz and then ascends to {1} Hz",
+      "The audio frequency starts at {0} Hz and then climbs to {1} Hz"
+    ],
+    "d": [
+      "The audio starts at {0} Hz and then decreases to {1} Hz",
+      "The audio begins at {0} Hz and gradually drops to {1} Hz",
+      "The sound starts at {0} Hz and then lowers to {1} Hz",
+      "The audio commences at {0} Hz and then decreases to {1} Hz",
+      "The sound starts at {0} Hz and progressively declines to {1} Hz",
+      "The frequency of this audio starts at {0} Hz and then descends to {1} Hz"
+    ]
+  },
+
+  "3":{
+    "uu":[
+      "The frequency of the audio file rose from {0} Hz to {1} Hz, and then finally to {2} Hz",
+      "The frequency of the audio file rose from {0} Hz to {1} Hz, and then finally to {2} Hz",
+      "Starting at {0} Hz, the audio file's frequency increased to {1} Hz, and eventually reached {2} Hz",
+      "The audio file's frequency was initially {0} Hz, then rose to {1} Hz, and finally peaked at {2} Hz",
+      "The audio file's frequency started at {0} Hz, went up to {1} Hz, and eventually elevated to {2} Hz",
+      "The frequency of the audio file climbed from {0} Hz to {1} Hz, and then to {2} Hz"
+    ],
+    "ud": [
+      "The frequency of the audio file increased from {0} Hz to {1} Hz and then fell to {2} Hz",
+      "The audio file's frequency went up from {0} Hz to {1} Hz and eventually decreased to {2} Hz",
+      "From {0} Hz, the audio file's frequency climbed to {1} Hz and finally went down to {2} Hz,",
+      "The frequency in the audio file climbed from {0} Hz to {1} Hz and ultimately descended to {2} Hz.",
+      "The audio frequency began at {0} Hz, rose to {1} Hz, and eventually fell to {2} Hz.",
+      "The frequency of this audio file started at {0} Hz, increased to {1} Hz, and then fell back to {2} Hz."
+    ],
+    "du" : [
+    "The frequency of the audio file fell from {0} Hz to {1} Hz, then increased to {2} Hz.",
+    "The audio file's frequency decreased from {0} Hz to {1} Hz, and finally climbed to {2} Hz.",
+    "The frequency in the audio file dropped from {0} Hz to {1} Hz, and later rose to {2} Hz.",
+    "The audio file went from {0} Hz down to {1} Hz, and subsequently up to {2} Hz.",
+    "The audio frequency fell from {0} Hz to {1} Hz, before rising to {2} Hz.",
+    "The sound frequency in the file declined from {0} Hz to {1} Hz, then ascended to {2} Hz."
+    ],
+    "dd": [
+    "The frequency of the audio file falls from {0} Hz to {1} Hz, and then to {2} Hz.",
+    "The audio file's frequency decreases from {0} Hz to {1} Hz, eventually reaching {2} Hz",
+    "The audio file frequency descends from {0} Hz to {1} Hz, ending at {2} Hz.",
+    "The frequency in the audio file goes down from {0} Hz to {1} Hz, and finally to {2} Hz.",
+    "From {0} Hz, the audio file's frequency reduces to {1} Hz and ultimately falls to {2} Hz.",
+    "The audio file's frequency steps down from {0} Hz to {1} Hz, finally reaching {2} Hz.",
+    "The frequency of this audio file drops initially from {0} Hz to {1} Hz, then ultimately to {2} Hz."
+    ]
+  },
+
+  "4": {
+    "uuu":[
+      "The frequency of the audio file increased from {0} Hz to {1} Hz, then climbed from {1} Hz to {2} Hz, and finally reached {3} Hz.",
+      "The audio file's frequency rose from {0} Hz to {1} Hz, then ascended from {1} Hz to {2} Hz, and eventually reached {3} Hz.",
+      "The frequency of this audio file started at {0} Hz, rose to {1} Hz, then increased again to {2} Hz, and finally peaked at {3} Hz.",
+      "From {0} Hz, the audio file's frequency climbed to {1} Hz, then increased to {2} Hz, and ultimately reached {3} Hz."
+    ],
+    "uud": [
+      "The frequency of the audio file increases from {0} Hz to {1} Hz, rises again from {1} Hz to {2} Hz, and then decreases to {3} Hz.",
+      "The audio file's frequency goes up from {0} Hz to {1} Hz, climbs further from {1} Hz to {2} Hz, and eventually falls to {3} Hz.",
+      "The audio file's frequency starts at {0} Hz, goes up to {1} Hz, increases again to {2} Hz, and finally drops down to {3} Hz.",
+      "Beginning at {0} Hz, the audio file's frequency rises to {1} Hz, climbs further to {2} Hz, and ultimately drops to {3} Hz.",
+      "The audio file’s frequency initially rises from {0} Hz to {1} Hz, ascends again from {1} Hz to {2} Hz, and eventually decreases to {3} Hz."
+    ],
+    "udu":[
+      "The audio file starts at {0} Hz, rises to {1} Hz, falls to {2} Hz, and then ascends to {3} Hz.",
+      "The frequency of this sound file climbs from {0} Hz to {1} Hz, decreases to {2} Hz, and then elevates to {3} Hz.",
+      "The frequency of the audio file increases from {0} Hz to {1} Hz, decreases from {1} Hz to {2} Hz, and finally rises to {3} Hz.",
+      "The audio file's frequency moves up from {0} Hz to {1} Hz, declines to {2} Hz, and finally increases to {3} Hz."
+    ],
+    "udd": [
+      "The audio file's frequency increased from {0} Hz to {1} Hz, then decreased to {2} Hz, and finally dropped to {3} Hz.",
+      "The frequency of the audio file rose from {0} Hz to {1} Hz, followed by a drop to {2} Hz, and then further decreased to {3} Hz.",
+      "The audio file went from {0} Hz up to {1} Hz, down to {2} Hz, and ended at {3} Hz.",
+      "The frequency of the audio file started at {0} Hz, peaked at {1} Hz, descended to {2} Hz, and finally decreased to {3} Hz."
+    ],
+    "dud": [
+      "The audio frequency decreased from {0} Hz to {1} Hz, then increased to {2} Hz, and finally dropped to {3} Hz.",
+      "The frequency of the audio file dropped from {0} Hz to {1} Hz, went up to {2} Hz, and then decreased to {3} Hz.",
+      "The audio file's frequency fell from {0} Hz to {1} Hz, climbed to {2} Hz, and ultimately dropped to {3} Hz.",
+      "The frequency of the audio lowered from {0} Hz to {1} Hz, then increased to {2} Hz, and eventually decreased to {3} Hz."
+    ],
+    "ddd":[
+      "The audio file's frequency decreased from {0} Hz to {1} Hz, then fell further to {2} Hz, and finally dropped to {3} Hz.",
+      "The audio's frequency went down from {0} Hz to {1} Hz, continued dropping to {2} Hz, and eventually decreased to {3} Hz.",
+      "The frequency in the audio file fell from {0} Hz to {1} Hz, then from {1} Hz to {2} Hz, and lastly to {3} Hz.",
+      "The frequency of the sound file descended from {0} Hz to {1} Hz, then declined to {2} Hz, and finally fell to {3} Hz."
+    ],
+    "ddu": [
+      "The audio file's frequency decreased from {0} Hz to {1} Hz, then further declined to {2} Hz, and finally increased to {3} Hz.",
+      "The frequency of the audio file fell from {0} Hz to {1} Hz, dropped again to {2} Hz, and then rose to {3} Hz.",
+      "The frequency in the audio file went from {0} Hz down to {1} Hz, decreased further to {2} Hz, and then ascended to {3} Hz.",
+      "Initially at {0} Hz, the audio file's frequency dropped to {1} Hz, went down to {2} Hz, and finally climbed to {3} Hz."
+    ],
+    "duu": [
+      "The frequency of the audio file dropped from {0} Hz to {1} Hz, then rose to {2} Hz, and finally increased to {3} Hz.",
+      "The audio file's frequency fell from {0} Hz to {1} Hz, climbed to {2} Hz, and then went up to {3} Hz.",
+      "The audio file frequency dropped initially from {0} Hz to {1} Hz, then increased to {2} Hz, and finally went up to {3} Hz.",
+      "The audio file's frequency went down from {0} Hz to {1} Hz, then up to {2} Hz, and lastly climbed to {3} Hz."
+
+    ]
+  }
+}
