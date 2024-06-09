@@ -1,6 +1,0 @@
-fid,filename,text description
-4fcf7da9,audio_1.wav,The frequency in the audio file climbed from 2163 Hz to 4373 Hz and ultimately descended to 3468 Hz.
-0cd1aba0,audio_2.wav,"The frequency of the audio file fell from 2930 Hz to 423 Hz, then increased to 3337 Hz."
-a0f6ff66,audio_3.wav,"From 756 Hz, the audio file's frequency climbed to 4369 Hz and finally went down to 3942 Hz,"
-68d2637f,audio_4.wav,"Starting at 1071 Hz, the audio file's frequency increased to 1204 Hz, and eventually reached 1605 Hz"
-bf70b200,audio_5.wav,"The frequency in the audio file went from 2435 Hz down to 1634 Hz, decreased further to 931 Hz, and then ascended to 1987 Hz."

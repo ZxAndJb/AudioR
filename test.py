@@ -1,4 +1,4 @@
-from waveuntils import wave, WaveGenerator
+from utils.waveuntils import wave, WaveGenerator
 import os
 import glob
 import pandas as pd

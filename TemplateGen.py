@@ -1,4 +1,4 @@
-from waveuntils import wave
+from utils.waveuntils import wave
 import numpy as np
 
 

@@ -2,7 +2,7 @@ import json
 from numpy import random
 import pandas as pd
 import numpy as np
-from waveuntils import wave, WaveGenerator
+from utils.waveuntils import WaveGenerator
 from TemplateGen import TextTemplate
 import os
 import hashlib
@@ -123,7 +123,7 @@ def generating(waveGenerator, textTemplate, amount, save_path):
 if __name__ == '__main__':
     with open("template.json", "r") as f:
         t = json.load(f)
-    seed = np.random.seed(0)
+    seed = np.random.seed(2)
     Tem = TextTemplate(t, seed)
     waveGenerator = WaveGenerator(13230)
-    generating(waveGenerator, Tem, 5, "./data")
+    generating(waveGenerator, Tem, 10, "./data/validation")
